@@ -66,3 +66,4 @@ https://cdn.jsdelivr.net/gh/spottedfoxdigital/email-assets@v1.0.0/clients/incorv
 | Tag | Contents |
 |---|---|
 | `v1.0.0` | Initial assets: Incorvaia logos + email logo, Spotted Fox logos + email icon |
+| `v1.0.1` | Incorvaia signatures (logo top / logo bottom) + Spotted Fox draft signature, all pinned to `v1.0.0` images |
