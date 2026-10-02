@@ -14,10 +14,7 @@ logos/
   incorvaia-logo-horizontal-reversed.svg           # reversed lockup for dark backgrounds (vector; not for email)
   incorvaia-icon-square-400.png                    # square "I" icon on navy (400x400, social avatar)
 email/
-  incorvaia-logo-email-440x86.png                  # signature logo for logo-top/bottom versions (displayed at 220x43)
-  incorvaia-logo-email-metallic-560x100.png        # v2 signature logo, muted metallic-gold mark (displayed at 280x50, 2x).
-                                                   #   Taken from Beenish's "Refined Incorvaia email signature" design mockup (Oct 2, 2026);
-                                                   #   no official file with this treatment exists (brand files use #F3A11E yellow/gradient).
+  incorvaia-logo-email-440x86.png                  # signature logo (displayed at 220x43; 256x50 in v2)
   calendar-icon-gold-104.png                       # gold calendar icon for "Book a Meeting" (displayed at 26x26)
 signatures/
   beenish-warraich-logo-top.html                   # version A: logo, gold rule, contact block
